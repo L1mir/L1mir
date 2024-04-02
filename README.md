@@ -23,16 +23,4 @@
 
 ![Limir's GitHub stats](https://github-readme-stats.vercel.app/api?username=L1mir&show_icons=true&theme=material-palenight)
 
-## ?? Stats ?????????? ????! ???
-
-![Line](./image/line2.gif)
-
-<br>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=L1mir2&theme=shades-of-purple&border_radius=20px&include_all_commits=true&count_private=true&show_icons=true){: width="50%" height="200px" align="left"}
-
-<br><br><br><br><br><br>
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=L1mir&layout=compact&langs_count=8&border_radius=20px&theme=shades-of-purple){: width="50%" height="200px" align="left"}
-
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=L1mir&theme=material-palenight&border_radius=4.5) -->
