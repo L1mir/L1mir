@@ -5,7 +5,7 @@
 
 ---
 
-### :bar_chart: Languages and Tools
+### :school_satchel: Languages and Tools
 
 <img align="left" alt="vscode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 <img align="left" alt="IntelliJIDEA" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
@@ -19,7 +19,7 @@
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <br />
 
-### Stats
+### :bar_chart: Stats
 
 ![Limir's GitHub stats](https://github-readme-stats.vercel.app/api?username=L1mir&show_icons=true&theme=material-palenight)
 
