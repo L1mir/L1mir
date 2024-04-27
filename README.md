@@ -21,6 +21,6 @@
 
 ### :bar_chart: Stats
 
-<div style="display: flex; justify-content: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=L1mir&show_icons=true&theme=material-palenight" alt="Limir's GitHub stats">
-</div>
+![Limir's GitHub stats](https://github-readme-stats.vercel.app/api?username=L1mir&show_icons=true&theme=material-palenight)
+
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=L1mir&theme=material-palenight&border_radius=4.5) -->
