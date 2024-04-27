@@ -24,3 +24,6 @@
 ![Limir's GitHub stats](https://github-readme-stats.vercel.app/api?username=L1mir&show_icons=true&theme=material-palenight)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=L1mir&theme=material-palenight&border_radius=4.5) -->
+<p align="center">
+  <img width="250" src="https://user-images.githubusercontent.com/74038190/212284164-662b26f5-a2e4-49cb-b675-4af56e609afa.gif">
+</p>
