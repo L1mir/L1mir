@@ -1,4 +1,4 @@
-<h4 align="center"><samp> Hi there :wave: welcome to my Github! I'm on a relentless journey to refine my programming skills, aiming to master various languages and frameworks. </samp></h4>
+<h4 align="center"><samp> Hi there :wave: welcome to my Github! I'm constantly inspired by programming and am on a relentless journey to refine my skills. Every day, I strive to grow and develop further. </samp></h4>
 <p align="center">
   <img width="250" src="https://user-images.githubusercontent.com/74038190/212284164-662b26f5-a2e4-49cb-b675-4af56e609afa.gif">
 </p>
@@ -16,7 +16,7 @@
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /> ...
 <br />
 
 ### :bar_chart: Stats
