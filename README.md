@@ -27,6 +27,5 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=L1mir&show_icons=true&theme=default&hide_border=true#gh-light-mode-only" />
-  <img src="https://github-readme-stats.vercel.app/api?username=L1mir&show_icons=true&theme=github_dark&hide_border=true#gh-dark-mode-only" />
+  <img src="https://github-readme-stats.vercel.app/api?username=L1mir&show_icons=true&theme=transparent&hide_border=true" />
 </div>
