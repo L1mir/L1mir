@@ -27,5 +27,6 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=L1mir&show_icons=true&theme=material-palenight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF&icon_color=6366F1" />
+  <img src="https://github-readme-stats.vercel.app/api?username=L1mir&show_icons=true&theme=default&hide_border=true#gh-light-mode-only" />
+  <img src="https://github-readme-stats.vercel.app/api?username=L1mir&show_icons=true&theme=github_dark&hide_border=true#gh-dark-mode-only" />
 </div>
